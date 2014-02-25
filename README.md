@@ -28,7 +28,7 @@ Tested on the following node versions (via [Travis-ci.org](http://travis-ci.org/
 > I have only actually used this on `0.10.12`.
 
 ### Installation
-
+    $ export npm_config_python=python2.7
     $ npm install httperfjs
 
 ### Basic usage:
