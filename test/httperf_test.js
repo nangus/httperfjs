@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var HTTPerf = require('lib/httperf');
 
 process.env.PATH = "./test/support:"+process.env.PATH;
