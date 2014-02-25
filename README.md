@@ -31,6 +31,9 @@ Tested on the following node versions (via [Travis-ci.org](http://travis-ci.org/
     $ export npm_config_python=python2.7
     $ npm install httperfjs
 
+### running the tests
+    $ npm test
+
 ### Basic usage:
 
     :::js

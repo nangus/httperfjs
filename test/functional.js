@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 var HTTPerf = require('../lib/httperf');
 
 var httperf = new HTTPerf({
